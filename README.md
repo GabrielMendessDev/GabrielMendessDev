@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielMendessDev&show_icons=true&count_private=true&hide_border=true&title_color=00ABFD&icon_color=00ABFD&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Mendes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMendessDevs&layout=compact&hide_border=true&title_color=00ABFD&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMendessDev&layout=compact&hide_border=true&title_color=00ABFD&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 
@@ -25,7 +25,7 @@
 
 ### Learning
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117)&nbsp;
