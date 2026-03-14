@@ -15,6 +15,7 @@
 ### Learning
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 ### Tools:
