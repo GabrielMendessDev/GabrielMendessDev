@@ -17,7 +17,6 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Trello](https://img.shields.io/badge/-trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![ClickUp](https://img.shields.io/badge/-clickup-0D1117?style=for-the-badge&logo=clickup&labelColor=0D1117&textColor=0D1117)&nbsp;
-
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 ### Learning
