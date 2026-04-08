@@ -14,7 +14,7 @@
 
 ### Learning
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Claude Code](https://img.shields.io/badge/claude-0D1117?style=for-the-badge&logo=claude&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Claude Code](https://img.shields.io/badge/claude%20code-0D1117?style=for-the-badge&logo=claude&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 ### Tools:
