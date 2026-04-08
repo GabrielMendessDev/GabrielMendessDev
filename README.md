@@ -10,6 +10,14 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![N8N](https://img.shields.io/badge/-N8N-0D1117?style=for-the-badge&logo=n8n&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Supabase](https://img.shields.io/badge/-supabase-0D1117?style=for-the-badge&logo=supabase&labelColor=0D1117&textColor=0D1117)&nbsp;
+![GIT](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Trello](https://img.shields.io/badge/-trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117&textColor=0D1117)&nbsp;
+![ClickUp](https://img.shields.io/badge/-clickup-0D1117?style=for-the-badge&logo=clickup&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 ### Learning
