@@ -1,6 +1,23 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ABFD&height=120&section=header"/>
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ABFD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Mendes;Web+Developer+|+Front-End;Automations+with+N8N+&+AI;Focused+on+Performance+&+UX;Welcome!+:%29)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ABFD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Mendes;Web+Developer+|+Front-End;Automations+with+N8N+&+AI;Focused+on+Performance+&+UX;Welcome!+:%29" />
+  
+  <br>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=GabrielMendessDev&color=00ABFD&style=for-the-badge&label=PROFILE+VIEWS)
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielMendessDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00ABFD&text_color=ffffff&icon_color=00ABFD&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMendessDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00ABFD&text_color=ffffff" height="165" alt="Top Languages" />
+</div>
+
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielMendessDev&bg_color=0D1117&color=ffffff&line=00ABFD&point=10b113&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
