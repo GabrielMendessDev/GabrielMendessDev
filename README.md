@@ -24,6 +24,7 @@
 ### 🛠️ Technologies & Tools
 
 **Development & Database**
+
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -31,10 +32,12 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 **Automation & AI**
+
 ![N8N](https://img.shields.io/badge/-N8N-0D1117?style=for-the-badge&logo=n8n&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Claude](https://img.shields.io/badge/-Claude-0D1117?style=for-the-badge&logo=anthropic&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 **Versioning & Management**
+
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![ClickUp](https://img.shields.io/badge/-ClickUp-0D1117?style=for-the-badge&logo=clickup&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -42,6 +45,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 **Currently Learning**
+
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ---
