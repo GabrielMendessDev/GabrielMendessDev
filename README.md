@@ -21,6 +21,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielMendessDev&bg_color=0D1117&color=ffffff&line=00ABFD&point=10b113&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielMendessDev&theme=algolia&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
