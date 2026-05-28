@@ -12,12 +12,14 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GabrielMendessDev/GabrielMendessDev/main/github-metrics.svg" alt="Minhas Estatísticas e Conquistas" width="100%">
-</div>
+<p align="center">
+  <!-- Imagem unificada do Metrics (agora compacta e com conquistas) -->
+  <img src="https://raw.githubusercontent.com/GabrielMendessDev/GabrielMendessDev/main/github-metrics.svg" alt="Minhas Estatísticas e Conquistas" width="480">
+</p>
 
 <br>
 
+<!-- O gráfico original que você quer manter -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielMendessDev&bg_color=0D1117&color=ffffff&line=00ABFD&point=10b113&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
