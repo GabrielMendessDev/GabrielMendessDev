@@ -15,19 +15,14 @@ jobs:
           base: ""
           config_timezone: America/Sao_Paulo
           
-          # Plugin de Linguagens
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 6
           
-          # Plugin de Hábitos (Substituindo as Conquistas)
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
+          plugin_achievements: yes
+          plugin_habits: no
           
-          # Força o estilo All Black e oculta o fundo padrão
+          # Estilo All Black
           custom_tags: |
             <style>
               svg { background-color: #050505 !important; color: #ffffff !important; }
