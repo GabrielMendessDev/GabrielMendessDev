@@ -22,7 +22,7 @@ jobs:
           plugin_languages_limit: 6
           
           # Plugin de Conquistas (Troféus)
-          plugin_achievements: no
+          plugin_achievements: yes
           plugin_achievements_limit: 6
           plugin_achievements_display: compact
           
